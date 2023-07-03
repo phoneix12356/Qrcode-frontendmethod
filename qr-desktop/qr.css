@@ -1,0 +1,68 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  padding-left: 500px;
+  padding-top: 75px; 
+  font-family: Outfit;
+  width: 1440px;
+}
+
+.Qr-box {
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  align-items: center;
+  border-radius: 14px;
+}
+
+img {
+  margin-top: 14px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.t1 {
+  display: flex;
+  flex-direction: column;
+  width:220px;
+  margin-top: 0px;
+  font-size: 18px;
+  padding-left: 10px;
+  padding-top:10px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.t1-1 , .t1-2{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.t1-1{
+  padding-left:4px ;
+}
+.t2 {
+  font-size: 12px;
+   padding-top:10px;
+  color:hsl(220, 15%, 55%);
+  margin-top:0px;
+  width: 205px;
+  display: flex;
+  flex-direction: column;
+  opacity: 0.80;
+}
+.t2-1{
+  padding-left:5px;
+  width:230px;
+  margin: 0px;
+}
+.t2-2{
+  width:230px;
+  margin: 0px;
+}
+.t2-3{
+  width:230px;
+  margin-top: 0px;
+  margin-left: 55px;
+  margin-bottom: 25px;
+}
+
+
